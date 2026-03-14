@@ -223,7 +223,7 @@ const Hero = () => {
             <div className="absolute inset-0 bg-accent/20 rounded-[40px] blur-3xl opacity-30" />
             <div className="relative w-full h-full rounded-[40px] overflow-hidden border border-white/10 bg-zinc-900/40 backdrop-blur-md p-3">
               <div className="w-full h-full rounded-[30px] overflow-hidden relative">
-                <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop" alt="Tech Environment" className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000" />
+                <img src="https://images.weserv.nl/?url=i.postimg.cc/FKKTc1Sq/1765788751506.png&w=1200&h=1200&fit=cover&mask=circle" alt="Tech Environment" className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000" />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent" />
               </div>
             </div>
@@ -268,7 +268,7 @@ const About = () => {
           </div>
           <div className="space-y-4 pt-8">
             <div className="h-64 rounded-3xl overflow-hidden border border-white/5"><img src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?q=80&w=800&auto=format&fit=crop" className="w-full h-full object-cover grayscale" /></div>
-            <div className="h-48 rounded-3xl overflow-hidden border border-white/5"><img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=800&auto=format&fit=crop" className="w-full h-full object-cover grayscale" /></div>
+            <div className="h-48 rounded-3xl overflow-hidden border border-white/5"><img src="https://tse1.mm.bing.net/th/id/OIP.Do6MeKuPEe9ywmRfTVcSiAHaFF?rs=1&pid=ImgDetMain&o=7&rm=3?q=80&w=800&auto=format&fit=crop" className="w-full h-full object-cover grayscale" /></div>
           </div>
         </div>
       </div>
